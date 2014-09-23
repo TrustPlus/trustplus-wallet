@@ -1,0 +1,1 @@
+mvn clean install -Prelease -Dandroid.sdk.path=/home/setafur/android-sdks
