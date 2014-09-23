@@ -9,7 +9,7 @@ Your wallet and your private keys are stored in app internal storage:
 	Wallet for Testnet
 
 The wallet file format is not compatible to wallet.dat (Satoshi client). Rather, it uses a custom protobuf format
-which should be compatible between clients using darkcoinj.
+which should be compatible between clients using trustpluscoinj.
 
 Certain actions cause automatic rolling backups of your private keys to app-private storage:
 
@@ -126,7 +126,7 @@ Use Git to check out the project and an Android library dependency to your works
 
 Use the maven-eclipse-plugin to create Eclipse project files:
 
-	cd darkcoin-wallet
+	cd trustplus-wallet
 	mvn eclipse:eclipse
 
 Optional: In the generated .classpath, remove the org.eclipse.jdt.launching.JRE_CONTAINER
@@ -189,6 +189,6 @@ The feed is described here:
 
 BITCOINJ
 
-Bitcoin Wallet uses darkcoinj for Bitcoin specific logic:
+Bitcoin Wallet uses trustpluscoinj for Bitcoin specific logic:
 
-http://github.com/HashEngineering/darkcoinj.git
+http://github.com/stafur/trustpluscoinj.git
