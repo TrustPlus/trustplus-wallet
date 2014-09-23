@@ -16,30 +16,19 @@
 
 package de.schildbach.wallet.util;
 
-import java.io.File;
-import java.io.FileFilter;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.Reader;
-import java.security.SecureRandom;
-import java.util.Arrays;
-
-import javax.annotation.Nonnull;
-
-import org.spongycastle.crypto.BufferedBlockCipher;
-import org.spongycastle.crypto.CipherParameters;
-import org.spongycastle.crypto.DataLengthException;
-import org.spongycastle.crypto.InvalidCipherTextException;
-import org.spongycastle.crypto.PBEParametersGenerator;
+import android.util.Base64;
+import de.schildbach.wallet.Constants;
+import org.spongycastle.crypto.*;
 import org.spongycastle.crypto.engines.AESFastEngine;
 import org.spongycastle.crypto.generators.OpenSSLPBEParametersGenerator;
 import org.spongycastle.crypto.modes.CBCBlockCipher;
 import org.spongycastle.crypto.paddings.PaddedBufferedBlockCipher;
 import org.spongycastle.crypto.params.ParametersWithIV;
 
-import android.util.Base64;
-import de.schildbach.wallet.Constants;
+import javax.annotation.Nonnull;
+import java.io.*;
+import java.security.SecureRandom;
+import java.util.Arrays;
 
 /**
  * This class encrypts and decrypts a string in a manner that is compatible with OpenSSL.
