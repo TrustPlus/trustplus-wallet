@@ -95,7 +95,7 @@ public class Constants
 	public static final int LOCAL_PRECISION = 8;        //altcoins need more digits in BTC
     //TODO: What about these two things?
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;
-	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
+	public static final String REPORT_EMAIL = "setafur@gmail.com";
 
 	public static final int UBTC_MAX_PRECISION = 2;
 
@@ -105,25 +105,25 @@ public class Constants
 
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
 
-    public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.46\n";
-    public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
-	public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-	public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
+    public static final String FORKED_FROM_SOURCE = "based on bitcoin-, darkcoin-, and peercoin-wallet\n";
+    public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj, darkcoinj, and peercoinj\n";
+	public static final String SOURCE_URL = "https://github.com/stafur/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
+	public static final String BINARY_URL = "https://github.com/stafur/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/stafur/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://darkcoin.io/";
+    public static final String CREDITS_WEBSITE_URL = "http://trustplus.co/";
     public static final String CREDITS_FORUM_URL = "https://darkcointalk.org/";
 
-	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
+	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?topic=687207.msg8973682#msg8973682";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/HashEngineering";
-	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/HashEngineering";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/TrustPlusCoin";
+	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/setafur";
 
-	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/communities/105515929887248493912";
+	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/setafur";
 
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
-	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Hash Engineering Solutions\"";
+	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Sergio Tafur\"";
 
 	public static final String VERSION_URL = "http://wallet.schildbach.de/version";
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;

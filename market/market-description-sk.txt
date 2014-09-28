@@ -1,21 +1,21 @@
-Darkcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Darkcoin Wallet je prvá mobilná Darkcoin aplikácia a preukázateľne aj najbezpečnejšia.
+TRUSTplusy vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. TRUSTplus Wallet je prvá mobilná TRUSTplus aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Darkcoinov v DRK alebo mDRK.
-• Prepočet hodnoty Darkcoinov do viacerých cudzích mien.
-• Posielanie a prijímanie Darkcoinov pomocou NFC, QR kódov alebo Darkcoin adries.
-• Adresár pre často používané Darkcoin adresy.
+• Zobrazenie zostatku TRUSTplusov v TRUST alebo mTRUST.
+• Prepočet hodnoty TRUSTplusov do viacerých cudzích mien.
+• Posielanie a prijímanie TRUSTplusov pomocou NFC, QR kódov alebo TRUSTplus adries.
+• Adresár pre často používané TRUSTplus adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Darkcoinov.
+• Notifikácie v stavovej lište pri prijatí TRUSTplusov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Darkcoine
-http://darkcoin.io
+Viac informácií o TRUSTpluse
+http://trustplus.co
 
-Ak chcete prispieť do projektu Darkcoin Wallet nájdete ho na adrese
-https://github.com/HashEngineering/darkcoin-wallet
+Ak chcete prispieť do projektu TRUSTplus Wallet nájdete ho na adrese
+https://github.com/stafur/trustplus-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

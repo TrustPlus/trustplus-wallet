@@ -1,20 +1,20 @@
-Darkcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Darkcoin cüzdanı ilk mobil Darkcoin uygulamasıdır ve muhtemelen en güvenli Darkcoin uygulamasıdır!
+TRUSTplus'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. TRUSTplus cüzdanı ilk mobil TRUSTplus uygulamasıdır ve muhtemelen en güvenli TRUSTplus uygulamasıdır!
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Darkcoin meblağlarının DRK ve mDRK olarak gösterilmesi.
+• TRUSTplus meblağlarının TRUST ve mTRUST olarak gösterilmesi.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
-• NFC, QR kodu veya Darkcoin bağlantıları ile Darkcoin gönderir ve alır.
-• Sık kullanılan Darkcoin adresleri için adres defteri içerir.
+• NFC, QR kodu veya TRUSTplus bağlantıları ile TRUSTplus gönderir ve alır.
+• Sık kullanılan TRUSTplus adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan Darkcoin'ler için sistem bildirimleri.
-• Darkcoin bakiyesini görüntüleyen widget.
+• Alınan TRUSTplus'ler için sistem bildirimleri.
+• TRUSTplus bakiyesini görüntüleyen widget.
 
-Darkcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://darkcoin.io
+TRUSTplus hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://trustplus.io
 
-Darkcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
-https://github.com/HashEngineering/darkcoin-wallet
+TRUSTplus Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/stafur/trustplus-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DRK, 8 Dezimalen</item>
-		<item>DRK, 6 Dezimalen</item>
-		<item>DRK, 4 Dezimalen</item>
-		<item>mDRK, 2 Dezimalen</item>
-		<item>µDRK, keine Dezimalen</item>
+		<item>TRUST, 8 Dezimalen</item>
+		<item>TRUST, 6 Dezimalen</item>
+		<item>TRUST, 4 Dezimalen</item>
+		<item>mTRUST, 2 Dezimalen</item>
+		<item>µTRUST, keine Dezimalen</item>
 	</string-array>
 
 </resources>

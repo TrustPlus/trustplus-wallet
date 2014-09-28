@@ -1,19 +1,19 @@
-Dit is een standalone Darkcoin Wallet voor uw Android apparaat. U kan direct Darkcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone TRUSTplus Wallet voor uw Android apparaat. U kan direct TRUSTpluss versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Darkcoin en verschillende andere valuta.
-• Verzenden en ontvangen van Darkcoin via NFC, QR-codes of Darkcoin URLs.
-• Adresboek voor veelgebruikte Darkcoin adressen.
+• Weergeven van het wallet saldo in TRUSTplus en verschillende andere valuta.
+• Verzenden en ontvangen van TRUSTplus via NFC, QR-codes of TRUSTplus URLs.
+• Adresboek voor veelgebruikte TRUSTplus adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Darkcoin connectiviteit en ontvangen Darkcoins.
-• Widget voor Darkcoin saldo.
+• Systeem melding over TRUSTplus connectiviteit en ontvangen TRUSTpluss.
+• Widget voor TRUSTplus saldo.
 
-Voor meer informatie over Darkcoin kunt u terecht op
-http://darkcoin.io
+Voor meer informatie over TRUSTplus kunt u terecht op
+http://trustplus.co
 
-Als u een bijdrage wil leveren aan Darkcoin Wallet, het project is te vinden op
-https://github.com/HashEngineering/darkcoin-wallet
+Als u een bijdrage wil leveren aan TRUSTplus Wallet, het project is te vinden op
+https://github.com/stafur/trustplus-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

@@ -20,12 +20,8 @@ Certain actions cause automatic rolling backups of your private keys to app-priv
 Private keys can be manually backed up to and restored from external storage:
 
 
-/sdcard/Download/darkcoin-wallet-keys-<yyyy-MM-dd>
+/sdcard/Download/TRUSTplus-wallet-keys-<yyyy-MM-dd>
 	Manual backups of private keys for Mainnet
-
-/sdcard/Download/darkcoin-wallet-keys-testnet-<yyyy-MM-dd>
-	Manual backups of private keys for Testnet
-
 
 The manual backup files are encrypted using your chosen password. You can use OpenSSL to decrypt:
 

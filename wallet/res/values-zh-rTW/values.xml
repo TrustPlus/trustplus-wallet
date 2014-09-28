@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DRK, 8位數</item>
-		<item>DRK, 6位數</item>
-		<item>DRK, 4位數</item>
-		<item>mDRK, 2位數</item>
-		<item>µDRK, 0位數</item>
+		<item>TRUST, 8位數</item>
+		<item>TRUST, 6位數</item>
+		<item>TRUST, 4位數</item>
+		<item>mTRUST, 2位數</item>
+		<item>µTRUST, 0位數</item>
 	</string-array>
 
 </resources>

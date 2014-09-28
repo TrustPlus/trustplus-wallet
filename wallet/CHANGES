@@ -1,4 +1,10 @@
+TRUSTplus Wallet
+---------------
+v0.1.0
+* First version
+
 Darkcoin Wallet
+---------------
 v1.0.1
 * Fix bug downloading headers
 * updated checkpoints
