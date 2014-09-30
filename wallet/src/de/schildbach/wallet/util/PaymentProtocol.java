@@ -47,9 +47,9 @@ import de.schildbach.wallet.PaymentIntent;
  */
 public final class PaymentProtocol
 {
-	public static final String MIMETYPE_PAYMENTREQUEST = "application/"+ CoinDefinition.coinName.toLowerCase()+"-paymentrequest"; // BIP 71
-	public static final String MIMETYPE_PAYMENT = "application/"+ CoinDefinition.coinName.toLowerCase()+"-payment"; // BIP 71
-	public static final String MIMETYPE_PAYMENTACK = "application/"+ CoinDefinition.coinName.toLowerCase()+"-paymentack"; // BIP 71
+	public static final String MIMETYPE_PAYMENTREQUEST = "application/"+ CoinDefinition.coinName+"-paymentrequest"; // BIP 71
+	public static final String MIMETYPE_PAYMENT = "application/"+ CoinDefinition.coinName+"-payment"; // BIP 71
+	public static final String MIMETYPE_PAYMENTACK = "application/"+ CoinDefinition.coinName+"-paymentack"; // BIP 71
 
 	public static Protos.PaymentRequest createPaymentRequest(final BigInteger amount, @Nonnull final Address toAddress, final String memo,
 			final String paymentUrl)

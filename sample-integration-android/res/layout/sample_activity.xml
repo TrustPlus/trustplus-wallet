@@ -26,13 +26,13 @@
 				android:checked="true"
 				android:text="Mainnet" />
 
-			<RadioButton
-				android:id="@+id/sample_network_testnet"
-				style="@android:style/TextAppearance.Medium"
-				android:layout_width="wrap_content"
-				android:layout_height="wrap_content"
-				android:layout_marginLeft="8dp"
-				android:text="Testnet" />
+			<!--<RadioButton-->
+				<!--android:id="@+id/sample_network_testnet"-->
+				<!--style="@android:style/TextAppearance.Medium"-->
+				<!--android:layout_width="wrap_content"-->
+				<!--android:layout_height="wrap_content"-->
+				<!--android:layout_marginLeft="8dp"-->
+				<!--android:text="Testnet" />-->
 		</RadioGroup>
 
 		<TextView

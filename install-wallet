@@ -1,3 +1,3 @@
-/home/setafur/android-sdks/platform-tools/adb install -r wallet/target/wallet.apk
-/home/setafur/android-sdks/platform-tools/adb uninstall wallet/target/wallet.apk
-/home/setafur/android-sdks/platform-tools/adb install wallet/target/wallet.apk
+#/home/setafur/android-sdks/platform-tools/adb install -r wallet/target/wallet.apk
+#/home/setafur/android-sdks/platform-tools/adb uninstall wallet/target/wallet.apk
+/home/setafur/android-sdks/platform-tools/adb install wallet/target/wallet-0.1.0.apk
