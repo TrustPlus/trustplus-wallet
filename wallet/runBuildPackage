@@ -1,1 +1,2 @@
-mvn clean install -Prelease -DskipTests -Dandroid.sdk.path=/home/setafur/android-sdks
+mvn clean install -Prelease -DskipTests -Dandroid.sdk.path=/home/tafur/android-sdk-linux
+#mvn clean install -Prelease -DskipTests -Dandroid.sdk.path=/home/setafur/android-sdks
