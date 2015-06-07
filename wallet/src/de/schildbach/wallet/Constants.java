@@ -113,12 +113,12 @@ public class Constants
 	public static final String BINARY_URL = "https://github.com/stafur/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/stafur/" + CoinDefinition.coinName.toLowerCase() + "coinj";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://trustplus.co/";
+    public static final String CREDITS_WEBSITE_URL = "http://trustplus.com/";
     public static final String CREDITS_FORUM_URL = "https://darkcointalk.org/";
 
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?topic=687207.msg8973682#msg8973682";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/TrustPlusCoin";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/TrustPlus";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/setafur";
 
 	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/setafur";
